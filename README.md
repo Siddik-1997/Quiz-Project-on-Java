@@ -24,6 +24,10 @@ The purpose of using a JSON (JavaScript Object Notation) file is to exchange dat
 
 In summary, JSON files are used for a variety of purposes, including data exchange, configuration, data storage, web APIs, and data analysis. Its lightweight and easy-to-read format makes it a popular choice for exchanging data between different programs and platforms.
 
+## Technology used: 
+- Intellij IDEA
+- Java
+
 ## Project Scenerio:
 
 **Create a quiz program that will take questions, option and answer from admin user and save it to the question bank. Then if any user want to give the quiz, random 5 questions will be shown to the user from the question bank.**
